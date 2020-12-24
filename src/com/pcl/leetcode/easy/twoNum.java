@@ -1,4 +1,4 @@
-package com.pcl;
+package com.pcl.leetcode.easy;
 
 public class twoNum {
     int[] res = new int[2];

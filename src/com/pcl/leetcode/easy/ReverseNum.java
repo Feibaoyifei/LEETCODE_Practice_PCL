@@ -1,4 +1,4 @@
-package com.pcl;
+package com.pcl.leetcode.easy;
 //数字反转
 public class ReverseNum {
     public int reverse(int x){
