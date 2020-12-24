@@ -1,6 +1,6 @@
 package com.pcl;
-
-public class Solution {
+//数字反转
+public class ReverseNum {
     public int reverse(int x){
 
         long a=0;
