@@ -11,7 +11,6 @@ public class HuiwenNum {
                     return false;
             }
 
-
         }
         return true;
     }
