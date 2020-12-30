@@ -1,12 +1,18 @@
 package com.pcl;
 
+import com.pcl.leetcode.easy.*;
+
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        // write your code here
-        //public int[] twoSum(int[] nums, int target)
-        int[] a ={2,7,11,15};
-        int num=9;
-        System.out.println(a[1]);
+        MergeTwoLinkedList ex=new MergeTwoLinkedList();
+
+        String s="(";
+        boolean res=ex.isValid(s);
+        System.out.println(res);
+        //回文数字
+
 
     }
 }
